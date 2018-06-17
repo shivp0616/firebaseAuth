@@ -76,7 +76,8 @@ var mainApp = {};
           institute:institute,
           phone:phone,
           gender:gender,
-      		dateTime:dateTime
+      		dateTime:dateTime,
+          attandance:'absent'
         });
       }
     }
